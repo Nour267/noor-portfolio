@@ -1,0 +1,13 @@
+{
+  "name": "noor-portfolio",
+  "version": "1.0.0",
+  "description": "Noor Abu Elfoul's Portfolio Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": ["portfolio", "web", "developer"],
+  "author": "Noor Abu Elfoul",
+  "license": "MIT"
+} 
